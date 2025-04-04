@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorSpheres", "ColorSphere
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterColorSpheres", "BetterColorSpheres\BetterColorSpheres.csproj", "{64FA23F4-37C6-4651-9A93-29096B26E09F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerStats", "PlayerStats\PlayerStats.csproj", "{538623B7-9700-49F9-A8F6-53D0C1657986}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{64FA23F4-37C6-4651-9A93-29096B26E09F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64FA23F4-37C6-4651-9A93-29096B26E09F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64FA23F4-37C6-4651-9A93-29096B26E09F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{538623B7-9700-49F9-A8F6-53D0C1657986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{538623B7-9700-49F9-A8F6-53D0C1657986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{538623B7-9700-49F9-A8F6-53D0C1657986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{538623B7-9700-49F9-A8F6-53D0C1657986}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
